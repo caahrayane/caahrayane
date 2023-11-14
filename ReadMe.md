@@ -1,18 +1,18 @@
 # 💫 About Me:
-🙍🏼‍♀️ Sou estudante de Engenharia de Software <br>🔭 Estou a procura de Estágio <br>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+🙍🏼‍♀️ Sou estudante de Engenharia de Software <br>🔭 Estou à procura de Estágio <br>💻 FullStack 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/camillyrayane/) 
 
-## My Skills
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=caahrayane&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=caahrayane&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caahrayane&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#### Main Stack:
+---
+[![](https://visitcount.itsvg.in/api?id=caahrayane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
