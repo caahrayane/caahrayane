@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙍🏼‍♀️ Sou estudante de Engenharia de Software <br>🔭 Estou à procura de Estágio <br>💻 FullStack 
+🙍🏼‍♀️ Sou estudante de Engenharia de Software <br>🔭 Estou à procura de Estágio <br>💻 Backend 
 
 
 ## 🌐 Socials:
