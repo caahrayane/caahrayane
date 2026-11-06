@@ -1,19 +1,30 @@
-# 💫 About Me:
-🙍🏼‍♀️ Sou estudante de Engenharia de Software <br>🔭 Estou à procura de Estágio <br>💻 Backend 
 
+# Oi! Eu sou a Camilly Rayane 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/camillyrayane/) 
+💻 Desenvolvedora de Software com foco em Backend.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/-C#-512BD4?logo=C#r&logoColor=pink&style=for-square)
+Tenho experiência profissional com C# e .NET no desenvolvimento e manutenção de aplicações, APIs REST e integrações, especialmente em soluções de e-commerce e pagamentos.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=caahrayane&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=caahrayane&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caahrayane&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Também desenvolvo projetos utilizando Python, JavaScript, HTML e CSS, explorando diferentes tecnologias e aprimorando minhas habilidades em desenvolvimento de software.
 
----
-[![](https://visitcount.itsvg.in/api?id=caahrayane&icon=0&color=0)](https://visitcount.itsvg.in)
+🎓 Graduanda em Engenharia de Software.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 Atualmente aprofundando meus conhecimentos em .NET, arquitetura de software, Clean Architecture e testes automatizados.
+
+## 🛠️ Tecnologias
+
+**Backend:** C# | .NET | Python | Java
+
+**Frontend:** HTML | CSS | JavaScript
+
+**Banco de dados:** SQL Server | PostgreSQL | MongoDB | Redis
+
+**Ferramentas:** Git | GitHub | Postman | Swagger
+
+## 📂 Projetos
+
+Confira meus repositórios para conhecer projetos desenvolvidos com diferentes tecnologias.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/camillyrayane/)
